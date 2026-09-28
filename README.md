@@ -3,6 +3,8 @@
 A browser app that pairs a **functional financial-document manager** with a
 **concept analytics/AI layer** for monthly financial review.
 
+> **Live demo:** https://finance-analyst-concept.vercel.app
+>
 > ⚠️ **Honest scope:** the document-management side is **genuinely functional**; the
 > analytics/AI side is a **concept** (illustrative figures). See below.
 
